@@ -14,7 +14,7 @@ function preload(){
 
 function setup(){
     createCanvas(800, 800);
-    background(230,220,190);
+    background(710, 400, WEBGL);
 }
 
 function draw(){
