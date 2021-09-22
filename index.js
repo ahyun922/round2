@@ -1,4 +1,4 @@
-// const backgroundColor = [230,220,190];
+// const backgroundColor = [710, 400, WEBGL];
 const sounds = Array.from({ length: 6 });
 
 function preload(){
